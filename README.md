@@ -1,4 +1,4 @@
-<h2 align="centre">Kyy Music Player</h2>
+<h2 align="centre">boy music Player</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/37e7781a4a5d5875c8cb3.jpg">
