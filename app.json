@@ -37,7 +37,7 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "NastySupportt"
+            "value": "@Boysayangg"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
